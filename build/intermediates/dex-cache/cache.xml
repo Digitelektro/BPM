@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Programozas\Android\BPM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Programozas\Android\BPM\app\build\intermediates\pre-dexed\debug\classes-8ca6b257ca52c8c74ad678269610646919e613ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Viktor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Programozas\Android\BPM\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-27291fb001b6d81c1ed56340f1802a664c9d2537.jar" />
+    </item>
+    <item
+        jar="D:\Programozas\Android\BPM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Programozas\Android\BPM\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-9dcfdd912d3c8ca20fb3cb2c758a0c9a299e8a33.jar" />
+    </item>
+    <item
+        jar="D:\Programozas\Android\BPM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Programozas\Android\BPM\app\build\intermediates\pre-dexed\debug\classes-d9a7932b525f011fbe07222256f184d98852083e.jar" />
+    </item>
+
+</items>
